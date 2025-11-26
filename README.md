@@ -14,7 +14,6 @@ Este projeto demonstra a configuração e implementação de testes unitários u
 - **Propósito**: Demonstração básica de métodos de teste
 - **Características**:
   - `teste01()`: Método executado (possui `@Test`)
-  - `teste02()`: Método **NÃO** executado (falta `@Test`)
   - `teste03()`: Método executado (possui `@Test`)
 
 ### 2. **CalculadoraTest.java**
